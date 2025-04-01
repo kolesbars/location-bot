@@ -5,7 +5,7 @@ from aiogram.utils import executor
 from geopy.geocoders import Nominatim
 import asyncio
 
-TOKEN = "YOUR_BOT_TOKEN"
+TOKEN = "7563615020:AAHlbK4zJDQ7G2vJ4LWucPjgwxDcbEA39C4"
 GROUP_ID = -1001234567890  # Замените на ID вашей группы
 
 bot = Bot(token=TOKEN)
